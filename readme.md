@@ -1,10 +1,6 @@
-=== Star Rating Gravity Forms ===
-Tags: Gravity Forms, Gravity Forms rating, Gravity Forms Star
-Tested up to: 5.4
-Requires PHP: 5.0
+<h1>Star Rating Gravity Forms</h1>
 
-== Description ==
-**Gravity Forms Star Rating** is best field for rating field in gravity forms there is auto generated rating field inw gravity forms [WordPress](https://en.wikipedia.org/wiki/WordPress) site.
+**[Gravity Forms Star Rating](https://wordpress.org/plugins/star-rating-gravity-form/)** is best field for rating field in gravity forms there is auto generated rating field inw gravity forms [WordPress](https://en.wikipedia.org/wiki/WordPress) site.
 
 **[Demo](http://oceanwebguru.com/oceanwebdemo/gravity-form-star-rating-gravity-form/)**
 
